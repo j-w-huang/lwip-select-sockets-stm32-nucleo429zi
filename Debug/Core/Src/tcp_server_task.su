@@ -1,0 +1,3 @@
+tcp_server_task.c:15:6:StartTcpServerTask	48	static
+tcp_server_task.c:23:6:TerminateTcpServerTask	16	static
+tcp_server_task.c:33:6:TcpServerFun	16	static

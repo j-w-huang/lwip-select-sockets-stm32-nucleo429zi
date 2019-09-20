@@ -1,0 +1,8 @@
+mprintf.c:5:13:printchar	16	static
+mprintf.c:22:12:prints	40	static
+mprintf.c:55:12:printi	64	static
+mprintf.c:98:12:print	64	static
+mprintf.c:164:5:mprintf	16	static
+mprintf.c:172:5:msprintf	28	static
+mprintf.c:181:5:msnprintf	24	static
+mprintf.c:196:5:write	24	static

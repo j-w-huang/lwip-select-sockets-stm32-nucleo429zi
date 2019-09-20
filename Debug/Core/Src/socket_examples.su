@@ -1,0 +1,5 @@
+socket_examples.c:67:1:sockex_nonblocking_connect	248	static
+socket_examples.c:305:1:sockex_testrecv	1152	static
+socket_examples.c:434:1:sockex_select_waiter	104	static
+socket_examples.c:489:1:sockex_testtwoselects	216	static
+socket_examples.c:608:6:socket_examples_init	16	static
